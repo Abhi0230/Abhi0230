@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-I am [Abhay Vishwakarma](https://www.linkedin.com/in/abhay), a DevOps Engineer, having 6+ months of practical onsite experience.I am enthusias for automation workflows using CI/CD & designing systems such as performance monitoring & diagnostics.
+I am [Abhay Vishwakarma](https://www.linkedin.com/in/abhay) a DevOps Engineer, having 6+ months of practical onsite experience.I am enthusias for automation workflows using CI/CD & designing systems such as performance monitoring & diagnostics.
 <br>😄Fun fact:I love connecting with new people; feel free to say hi, and I’d be happy to meet you more! </br>
 <br>💬 Ask me about: AWS, Networking, Linux & DevOps.</br>
 <p align="center">
@@ -88,7 +88,7 @@ I am [Abhay Vishwakarma](https://www.linkedin.com/in/abhay), a DevOps Engineer, 
 
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn](https://www.[linkedin.com/in/abhay-vishwakarma800/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/abhay-vishwakarma800/) 👨🏻‍💻
  - Follow me on [Medium ](https://www.medium.com/@abhayvishwakarma800/) ✨
  - Shoot Me an [Email](mailto:abhayvishwakarma800@gmail.com) 💌
 
