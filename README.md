@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-I am [Abhay Vishwakarma](https://www.linkedin.com/in/abhay) a DevOps Engineer, having 6+ months of practical onsite experience.I am enthusias for automation workflows using CI/CD & designing systems such as performance monitoring & diagnostics.
-<br>😄Fun fact:I love connecting with new people; feel free to say hi, and I’d be happy to meet you more! </br>
+I am [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma800/) a DevOps Engineer, having 6+ months of practical onsite experience. I am enthusiastic about automation workflows using CI/CD & designing systems such as performance monitoring & diagnostics.
+<br>😄Fun fact: I love connecting with new people, feel free to say hi & I would be happy to meet you more.</br>
 <br>💬 Ask me about: AWS, Networking, Linux & DevOps.</br>
 <p align="center">
 <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
@@ -47,13 +47,13 @@ I am [Abhay Vishwakarma](https://www.linkedin.com/in/abhay) a DevOps Engineer, h
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="90" /> 
   </a>
+    <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="90" />
+  </a>
   <a href="https://kubernetes.io/docs/home/" target="_blank" >
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-kubernets-283489.png?f=webp&w=256"  height="90" /> 
   </a>
   
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="90" />
-  </a>
   <a href="https://docs.ansible.com/ansible/2.9/modules/list_of_all_modules.html" target="_blank" >
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-ansible-282283.png?f=webp&w=256"  height="90" />
   </a>
